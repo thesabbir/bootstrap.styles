@@ -1,0 +1,27 @@
+{
+  "name": "bootstrap.styles",
+  "version": "3.2.0",
+  "keywords": [
+        "twitter",
+        "bootstrap",
+        "twitter-bootstrap",
+        "bootstrap styles"
+        "css",
+        "only css"
+    ],
+    "main": [
+    "css/bootstrap.css",
+    "fonts/glyphicons-halflings-regular.eot",
+    "fonts/glyphicons-halflings-regular.svg",
+    "fonts/glyphicons-halflings-regular.ttf",
+    "fonts/glyphicons-halflings-regular.woff"
+    ],
+    "homepage": "https://github.com/thesabbir/bootstrap.styles",
+    "author": {
+        "name": "thesabbir"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/thesabbir/bootstrap.styles.git"
+    }
+}
